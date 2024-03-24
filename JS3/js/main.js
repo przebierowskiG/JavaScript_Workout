@@ -1,4 +1,6 @@
-console.log("Hello World");
+const myVariable = "mathematics";
+console.log(myVariable);
 
-console.log(typeof "Grzesiek");
-console.log(typeof 43)
+console.log(myVariable.includes("div"));
+console.log(myVariable.includes("mat"));
+console.log(myVariable.split("e"));
